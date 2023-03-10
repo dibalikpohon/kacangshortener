@@ -2,7 +2,7 @@
 A server to make a shortlinks to websites.
 
 # How to install
-1. Clone this website
+1. Clone this repo
 2. Prepare a PostgreSQL database
 3. Open this project
 4. Run `npm i`
