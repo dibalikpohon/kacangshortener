@@ -21,3 +21,8 @@ PGDATABASE=<PostgreSQL database>
 7. Run `npm run start` to start hosting.
 
 ⚠️ You might want to remove line 14 on `server.js`
+
+# Endpoints
+1. POST `/shortenLink`
+2. POST `/customShortenLink`
+3. GET `/expandLink`
